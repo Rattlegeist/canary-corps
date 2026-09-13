@@ -62,7 +62,7 @@ label chapter1:
     "The soldiers step off the loading platform. The cargo door rises, reducing the outside light to a sliver before it locks shut." #TODO helidoor
     
     show 637 left sneer with slowdissolve
-    "The other machine, still laying on the floor, looks up towards 928."
+    "The other machine, still laying on the floor, looks up towards 928." #TODO heli_takeoff
 
 
     show 637 wink
